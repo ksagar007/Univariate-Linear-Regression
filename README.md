@@ -42,10 +42,7 @@ plt.show()
 
 ```
 ## Output
-</br>
-</br>
-</br>
-</br>
+
 ![Screenshot from 2023-01-26 15-16-29](https://user-images.githubusercontent.com/121165786/214805633-338fd12c-44e8-4f7f-a6e7-5e5ccd5dffcf.png)
 
 ## Result
